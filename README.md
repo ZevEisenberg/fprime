@@ -28,7 +28,7 @@ Once these utilities are installed, you can install F´ Python dependencies. Ins
 
 To install F´ quickly, enter:
 
-```
+```sh
 git clone https://github.com/nasa/fprime.git
 cd fprime
 pip install --upgrade wheel setuptools pip
